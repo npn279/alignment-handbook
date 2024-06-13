@@ -1,7 +1,7 @@
 # Model arguments
 model_name_or_path: Qwen/Qwen2-1.5B
 model_revision: main
-torch_dtype: float16
+torch_dtype: auto
 use_flash_attention_2: false
 
 # LoRA arguments
